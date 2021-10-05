@@ -13,7 +13,7 @@ el funcionamiento de ambos archivos es exactamente el mismo, la unica diferencia
 el programa pedira ingresar valores para a y para b, es necesario resaltar que el  debe ser el numero mayor entre ambos, ambos valores se ingresaran con un ENTER, y posterior al ingreso el programa regresara los valores del:
   - GCD
   
-  -x'
+  - x'
   
  
-  -y'
+  - y'
