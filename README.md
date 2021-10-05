@@ -17,3 +17,5 @@ el programa pedira ingresar valores para a y para b, es necesario resaltar que e
   
  
   - y'
+
+Y serán imprimidos en la consola.
